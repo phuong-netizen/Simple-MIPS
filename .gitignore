@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.vcd
+*.wlf
+*.vvp
+work/
+transcript
+vsim.wlf
+temp.txt
+build/
